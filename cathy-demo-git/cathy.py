@@ -4,5 +4,5 @@ def cathy(x):
     else:
         print("je suis cathy")
 
-cathy(1)
+
         
