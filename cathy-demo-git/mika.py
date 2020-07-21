@@ -1,2 +1,4 @@
-def hello():
-    return 0
+import turtle
+
+wn= screen.turtle
+wn.bgcolor=("red")
