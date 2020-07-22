@@ -3,6 +3,8 @@
 
 
 
+
+
 # Test de fontions
 def moyenne():
     a = False
