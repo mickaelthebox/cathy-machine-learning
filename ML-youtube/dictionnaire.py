@@ -14,7 +14,7 @@ classeur = {
 }
 def trier(classeur,nombre):
     if nombre < 0:
-        classeur["positiif"] = nombre
+        classeur["positiif"].append(nombre)
     else:
-        classeur["negatif"] = nombre
+        classeur["negatif"].append(nombre)
     return classeur
